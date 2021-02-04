@@ -1,0 +1,502 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 23
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Sheet
+S 6000 2700 850  2000
+U 60166ED8
+F0 "A Side" 50
+F1 "A Side.sch" 50
+F2 "X1" I L 6000 2750 50 
+F3 "X2" I L 6000 2850 50 
+F4 "X3" I L 6000 2950 50 
+F5 "X4" I L 6000 3050 50 
+F6 "X5" I L 6000 3150 50 
+F7 "X6" I L 6000 3250 50 
+F8 "X7" I L 6000 3350 50 
+F9 "X8" I L 6000 3450 50 
+F10 "X9" I L 6000 3550 50 
+F11 "X10" I L 6000 3650 50 
+F12 "X11" I L 6000 3750 50 
+F13 "X12" I L 6000 3850 50 
+F14 "X13" I L 6000 3950 50 
+F15 "X14" I L 6000 4050 50 
+F16 "X15" I L 6000 4150 50 
+F17 "X16" I L 6000 4250 50 
+F18 "X17" I R 6850 2750 50 
+F19 "X18" I R 6850 2850 50 
+F20 "X19" I R 6850 2950 50 
+F21 "X20" I R 6850 3050 50 
+F22 "X21" I R 6850 3150 50 
+F23 "X22" I R 6850 3250 50 
+F24 "X23" I R 6850 3350 50 
+F25 "X24" I R 6850 3450 50 
+F26 "X25" I R 6850 3550 50 
+F27 "X26" I R 6850 3650 50 
+F28 "X27" I R 6850 3750 50 
+F29 "X28" I R 6850 3850 50 
+F30 "X29" I R 6850 3950 50 
+F31 "X30" I R 6850 4050 50 
+F32 "X31" I R 6850 4150 50 
+F33 "X32" I R 6850 4250 50 
+F34 "F(X)" O R 6850 4450 50 
+F35 "Y" I R 6850 4550 50 
+F36 "Vtrain" I R 6850 4650 50 
+F37 "Vgsbias" I L 6000 4650 50 
+F38 "Vs+" I L 6000 4450 50 
+F39 "Vs-" I L 6000 4550 50 
+$EndSheet
+$Sheet
+S 3000 2650 1300 3750
+U 6016B845
+F0 "Conn" 50
+F1 "Conn.sch" 50
+F2 "X32A" I R 4300 2700 50 
+F3 "X31A" I R 4300 2800 50 
+F4 "X30A" I R 4300 2900 50 
+F5 "X29A" I R 4300 3000 50 
+F6 "X28A" I R 4300 3100 50 
+F7 "X27A" I R 4300 3200 50 
+F8 "X26A" I R 4300 3300 50 
+F9 "X25A" I R 4300 3400 50 
+F10 "X24A" I R 4300 3500 50 
+F11 "X23A" I R 4300 3600 50 
+F12 "X22A" I R 4300 3700 50 
+F13 "X21A" I R 4300 3800 50 
+F14 "X20A" I R 4300 3900 50 
+F15 "X19A" I R 4300 4000 50 
+F16 "X18A" I R 4300 4100 50 
+F17 "X17A" I R 4300 4200 50 
+F18 "X16A" I R 4300 4300 50 
+F19 "X15A" I R 4300 4400 50 
+F20 "X14A" I R 4300 4500 50 
+F21 "X13A" I R 4300 4600 50 
+F22 "X12A" I R 4300 4700 50 
+F23 "X11A" I R 4300 4800 50 
+F24 "X10A" I R 4300 4900 50 
+F25 "X9A" I R 4300 5000 50 
+F26 "X8A" I R 4300 5100 50 
+F27 "X7A" I R 4300 5200 50 
+F28 "X6A" I R 4300 5300 50 
+F29 "X5A" I R 4300 5400 50 
+F30 "X4A" I R 4300 5500 50 
+F31 "X3A" I R 4300 5600 50 
+F32 "X2A" I R 4300 5700 50 
+F33 "X1A" I R 4300 5800 50 
+F34 "F(X)A" I R 4300 6000 50 
+F35 "+5V5" I R 4300 6300 50 
+F36 "YA" I R 4300 6100 50 
+F37 "X32B" I L 3000 2700 50 
+F38 "X31B" I L 3000 2800 50 
+F39 "X30B" I L 3000 2900 50 
+F40 "X29B" I L 3000 3000 50 
+F41 "X28B" I L 3000 3100 50 
+F42 "X27B" I L 3000 3200 50 
+F43 "X26B" I L 3000 3300 50 
+F44 "X25B" I L 3000 3400 50 
+F45 "X24B" I L 3000 3500 50 
+F46 "X23B" I L 3000 3600 50 
+F47 "X22B" I L 3000 3700 50 
+F48 "X21B" I L 3000 3800 50 
+F49 "X20B" I L 3000 3900 50 
+F50 "X19B" I L 3000 4000 50 
+F51 "X18B" I L 3000 4100 50 
+F52 "X17B" I L 3000 4200 50 
+F53 "X16B" I L 3000 4300 50 
+F54 "X15B" I L 3000 4400 50 
+F55 "X14B" I L 3000 4500 50 
+F56 "X13B" I L 3000 4600 50 
+F57 "X12B" I L 3000 4700 50 
+F58 "X11B" I L 3000 4800 50 
+F59 "X10B" I L 3000 4900 50 
+F60 "X9B" I L 3000 5000 50 
+F61 "X8B" I L 3000 5100 50 
+F62 "X7B" I L 3000 5200 50 
+F63 "X6B" I L 3000 5300 50 
+F64 "X5B" I L 3000 5400 50 
+F65 "X4B" I L 3000 5500 50 
+F66 "X3B" I L 3000 5600 50 
+F67 "X2B" I L 3000 5700 50 
+F68 "X1B" I L 3000 5800 50 
+F69 "F(X)B" I L 3000 6000 50 
+F70 "-10V" I L 3000 6200 50 
+F71 "YB" I L 3000 6100 50 
+F72 "Train" I R 4300 6200 50 
+$EndSheet
+Text Label 6000 2750 2    50   ~ 0
+X1A
+Text Label 6000 2850 2    50   ~ 0
+X2A
+Text Label 6000 2950 2    50   ~ 0
+X3A
+Text Label 6000 3050 2    50   ~ 0
+X4A
+Text Label 6000 3150 2    50   ~ 0
+X5A
+Text Label 6000 3250 2    50   ~ 0
+X6A
+Text Label 6000 3350 2    50   ~ 0
+X7A
+Text Label 6000 3450 2    50   ~ 0
+X8A
+Text Label 6000 3550 2    50   ~ 0
+X9A
+Text Label 6000 3650 2    50   ~ 0
+X10A
+Text Label 6000 3750 2    50   ~ 0
+X11A
+Text Label 6000 3850 2    50   ~ 0
+X12A
+Text Label 6000 3950 2    50   ~ 0
+X13A
+Text Label 6000 4050 2    50   ~ 0
+X14A
+Text Label 6000 4150 2    50   ~ 0
+X15A
+Text Label 6000 4250 2    50   ~ 0
+X16A
+Text Label 6850 4650 0    50   ~ 0
+Vtrain
+Text Label 6850 2750 0    50   ~ 0
+X17A
+Text Label 6850 2850 0    50   ~ 0
+X18A
+Text Label 6850 2950 0    50   ~ 0
+X19A
+Text Label 6850 3050 0    50   ~ 0
+X20A
+Text Label 6850 3150 0    50   ~ 0
+X21A
+Text Label 6850 3250 0    50   ~ 0
+X22A
+Text Label 6850 3350 0    50   ~ 0
+X23A
+Text Label 6850 3450 0    50   ~ 0
+X24A
+Text Label 6850 3550 0    50   ~ 0
+X25A
+Text Label 6850 3650 0    50   ~ 0
+X26A
+Text Label 6850 3750 0    50   ~ 0
+X27A
+Text Label 6850 3850 0    50   ~ 0
+X28A
+Text Label 6850 3950 0    50   ~ 0
+X29A
+Text Label 6850 4050 0    50   ~ 0
+X30A
+Text Label 6850 4150 0    50   ~ 0
+X31A
+Text Label 6850 4250 0    50   ~ 0
+X32A
+Text Label 6850 4450 0    50   ~ 0
+F(X)A
+Text Label 6850 4550 0    50   ~ 0
+YA
+Text Label 4300 4200 0    50   ~ 0
+X17A
+Text Label 4300 4100 0    50   ~ 0
+X18A
+Text Label 4300 4000 0    50   ~ 0
+X19A
+Text Label 4300 3900 0    50   ~ 0
+X20A
+Text Label 4300 3800 0    50   ~ 0
+X21A
+Text Label 4300 3700 0    50   ~ 0
+X22A
+Text Label 4300 3600 0    50   ~ 0
+X23A
+Text Label 4300 3500 0    50   ~ 0
+X24A
+Text Label 4300 3400 0    50   ~ 0
+X25A
+Text Label 4300 3300 0    50   ~ 0
+X26A
+Text Label 4300 3200 0    50   ~ 0
+X27A
+Text Label 4300 3100 0    50   ~ 0
+X28A
+Text Label 4300 3000 0    50   ~ 0
+X29A
+Text Label 4300 2900 0    50   ~ 0
+X30A
+Text Label 4300 2800 0    50   ~ 0
+X31A
+Text Label 4300 2700 0    50   ~ 0
+X32A
+Text Label 4300 5800 0    50   ~ 0
+X1A
+Text Label 4300 5700 0    50   ~ 0
+X2A
+Text Label 4300 5600 0    50   ~ 0
+X3A
+Text Label 4300 5500 0    50   ~ 0
+X4A
+Text Label 4300 5400 0    50   ~ 0
+X5A
+Text Label 4300 5300 0    50   ~ 0
+X6A
+Text Label 4300 5200 0    50   ~ 0
+X7A
+Text Label 4300 5100 0    50   ~ 0
+X8A
+Text Label 4300 5000 0    50   ~ 0
+X9A
+Text Label 4300 4900 0    50   ~ 0
+X10A
+Text Label 4300 4800 0    50   ~ 0
+X11A
+Text Label 4300 4700 0    50   ~ 0
+X12A
+Text Label 4300 4600 0    50   ~ 0
+X13A
+Text Label 4300 4500 0    50   ~ 0
+X14A
+Text Label 4300 4400 0    50   ~ 0
+X15A
+Text Label 4300 4300 0    50   ~ 0
+X16A
+Text Label 4300 6000 0    50   ~ 0
+F(X)A
+Text Label 4300 6100 0    50   ~ 0
+YA
+Text Label 4300 6300 0    50   ~ 0
+5V5
+Text Label 3000 6200 2    50   ~ 0
+-10V
+$Sheet
+S 6000 5050 1100 650 
+U 6023B003
+F0 "sheet6023AFFC" 50
+F1 "C:/Users/Mark/Documents/Projects/Neuron/Hardware_MLP/Power.sch" 50
+F2 "Vs+" O L 6000 5150 50 
+F3 "Vgsbias" O L 6000 5450 50 
+F4 "-10V" I R 7100 5300 50 
+F5 "Vs-" O L 6000 5300 50 
+F6 "5V5" I R 7100 5150 50 
+F7 "Vtrain" I L 6000 5600 50 
+F8 "Train" I R 7100 5450 50 
+$EndSheet
+Text Label 7400 2750 2    50   ~ 0
+X1B
+Text Label 7400 2850 2    50   ~ 0
+X2B
+Text Label 7400 2950 2    50   ~ 0
+X3B
+Text Label 7400 3050 2    50   ~ 0
+X4B
+Text Label 7400 3150 2    50   ~ 0
+X5B
+Text Label 7400 3250 2    50   ~ 0
+X6B
+Text Label 7400 3350 2    50   ~ 0
+X7B
+Text Label 7400 3450 2    50   ~ 0
+X8B
+Text Label 7400 3550 2    50   ~ 0
+X9B
+Text Label 7400 3650 2    50   ~ 0
+X10B
+Text Label 7400 3750 2    50   ~ 0
+X11B
+Text Label 7400 3850 2    50   ~ 0
+X12B
+Text Label 7400 3950 2    50   ~ 0
+X13B
+Text Label 7400 4050 2    50   ~ 0
+X14B
+Text Label 7400 4150 2    50   ~ 0
+X15B
+Text Label 7400 4250 2    50   ~ 0
+X16B
+Text Label 8250 4650 0    50   ~ 0
+Vtrain
+Text Label 8250 2750 0    50   ~ 0
+X17B
+Text Label 8250 2850 0    50   ~ 0
+X18B
+Text Label 8250 2950 0    50   ~ 0
+X19B
+Text Label 8250 3050 0    50   ~ 0
+X20B
+Text Label 8250 3150 0    50   ~ 0
+X21B
+Text Label 8250 3250 0    50   ~ 0
+X22B
+Text Label 8250 3350 0    50   ~ 0
+X23B
+Text Label 8250 3450 0    50   ~ 0
+X24B
+Text Label 8250 3550 0    50   ~ 0
+X25B
+Text Label 8250 3650 0    50   ~ 0
+X26B
+Text Label 8250 3750 0    50   ~ 0
+X27B
+Text Label 8250 3850 0    50   ~ 0
+X28B
+Text Label 8250 3950 0    50   ~ 0
+X29B
+Text Label 8250 4050 0    50   ~ 0
+X30B
+Text Label 8250 4150 0    50   ~ 0
+X31B
+Text Label 8250 4250 0    50   ~ 0
+X32B
+Text Label 8250 4450 0    50   ~ 0
+F(X)B
+Text Label 8250 4550 0    50   ~ 0
+YB
+Text Label 3000 4200 2    50   ~ 0
+X17B
+Text Label 3000 4100 2    50   ~ 0
+X18B
+Text Label 3000 4000 2    50   ~ 0
+X19B
+Text Label 3000 3900 2    50   ~ 0
+X20B
+Text Label 3000 3800 2    50   ~ 0
+X21B
+Text Label 3000 3700 2    50   ~ 0
+X22B
+Text Label 3000 3600 2    50   ~ 0
+X23B
+Text Label 3000 3500 2    50   ~ 0
+X24B
+Text Label 3000 3400 2    50   ~ 0
+X25B
+Text Label 3000 3300 2    50   ~ 0
+X26B
+Text Label 3000 3200 2    50   ~ 0
+X27B
+Text Label 3000 3100 2    50   ~ 0
+X28B
+Text Label 3000 3000 2    50   ~ 0
+X29B
+Text Label 3000 2900 2    50   ~ 0
+X30B
+Text Label 3000 2800 2    50   ~ 0
+X31B
+Text Label 3000 2700 2    50   ~ 0
+X32B
+Text Label 3000 5800 2    50   ~ 0
+X1B
+Text Label 3000 5700 2    50   ~ 0
+X2B
+Text Label 3000 5600 2    50   ~ 0
+X3B
+Text Label 3000 5500 2    50   ~ 0
+X4B
+Text Label 3000 5400 2    50   ~ 0
+X5B
+Text Label 3000 5300 2    50   ~ 0
+X6B
+Text Label 3000 5200 2    50   ~ 0
+X7B
+Text Label 3000 5100 2    50   ~ 0
+X8B
+Text Label 3000 5000 2    50   ~ 0
+X9B
+Text Label 3000 4900 2    50   ~ 0
+X10B
+Text Label 3000 4800 2    50   ~ 0
+X11B
+Text Label 3000 4700 2    50   ~ 0
+X12B
+Text Label 3000 4600 2    50   ~ 0
+X13B
+Text Label 3000 4500 2    50   ~ 0
+X14B
+Text Label 3000 4400 2    50   ~ 0
+X15B
+Text Label 3000 4300 2    50   ~ 0
+X16B
+Text Label 3000 6000 2    50   ~ 0
+F(X)B
+Text Label 3000 6100 2    50   ~ 0
+YB
+Text Label 7100 5150 0    50   ~ 0
+5V5
+Text Label 7100 5300 0    50   ~ 0
+-10V
+Text Label 6000 5300 2    50   ~ 0
+Vs-
+Text Label 6000 5450 2    50   ~ 0
+Vgsbias
+Text Label 6000 4550 2    50   ~ 0
+Vs-
+Text Label 6000 4650 2    50   ~ 0
+Vgsbias
+Text Label 7400 4550 2    50   ~ 0
+Vs-
+Text Label 7400 4650 2    50   ~ 0
+Vgsbias
+Text Label 6000 5600 2    50   ~ 0
+Vtrain
+Text Label 4300 6200 0    50   ~ 0
+Train
+Text Label 7100 5450 0    50   ~ 0
+Train
+Text GLabel 6000 5150 0    50   Input ~ 0
+Vs+
+Text GLabel 7400 4450 0    50   Input ~ 0
+Vs+
+Text GLabel 6000 4450 0    50   Input ~ 0
+Vs+
+$Sheet
+S 7400 2700 850  2000
+U 6024655D
+F0 "B Side" 50
+F1 "B Side.sch" 50
+F2 "X1" I L 7400 2750 50 
+F3 "X2" I L 7400 2850 50 
+F4 "X3" I L 7400 2950 50 
+F5 "X4" I L 7400 3050 50 
+F6 "X5" I L 7400 3150 50 
+F7 "X6" I L 7400 3250 50 
+F8 "X7" I L 7400 3350 50 
+F9 "X8" I L 7400 3450 50 
+F10 "X9" I L 7400 3550 50 
+F11 "X10" I L 7400 3650 50 
+F12 "X11" I L 7400 3750 50 
+F13 "X12" I L 7400 3850 50 
+F14 "X13" I L 7400 3950 50 
+F15 "X14" I L 7400 4050 50 
+F16 "X15" I L 7400 4150 50 
+F17 "X16" I L 7400 4250 50 
+F18 "X17" I R 8250 2750 50 
+F19 "X18" I R 8250 2850 50 
+F20 "X19" I R 8250 2950 50 
+F21 "X20" I R 8250 3050 50 
+F22 "X21" I R 8250 3150 50 
+F23 "X22" I R 8250 3250 50 
+F24 "X23" I R 8250 3350 50 
+F25 "X24" I R 8250 3450 50 
+F26 "X25" I R 8250 3550 50 
+F27 "X26" I R 8250 3650 50 
+F28 "X27" I R 8250 3750 50 
+F29 "X28" I R 8250 3850 50 
+F30 "X29" I R 8250 3950 50 
+F31 "X30" I R 8250 4050 50 
+F32 "X31" I R 8250 4150 50 
+F33 "X32" I R 8250 4250 50 
+F34 "F(X)" O R 8250 4450 50 
+F35 "Y" I R 8250 4550 50 
+F36 "Vtrain" I R 8250 4650 50 
+F37 "Vgsbias" I L 7400 4650 50 
+F38 "Vs+" I L 7400 4450 50 
+F39 "Vs-" I L 7400 4550 50 
+$EndSheet
+$EndSCHEMATC

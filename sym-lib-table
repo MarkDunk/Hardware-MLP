@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Neuron_Custom)(type Legacy)(uri ${KIPRJMOD}/Neuron_Custom.lib)(options "")(descr ""))
+)

@@ -1,0 +1,17 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Neuron_Board_Edge
+D Neuron_Connector
+K MLP Conn
+F https://cdn.amphenol-icc.com/media/wysiwyg/files/documentation/gs-12-233.pdf
+$ENDCMP
+#
+$CMP SN74AHCT126
+F https://datasheet.lcsc.com/szlcsc/Texas-Instruments-TI-SN74AHCT126PWR_C155177.pdf
+$ENDCMP
+#
+$CMP TCR2EF
+F file:///C:/Users/Mark/Downloads/TCR2EF50_datasheet_en_20190620.pdf
+$ENDCMP
+#
+#End Doc Library
